@@ -1,0 +1,1 @@
+print("Olá, seja bem-vindo à aula de ADS com git do Senai!")
